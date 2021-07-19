@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/cascax/sql2gorm/parser"
+	"github.com/gogoods/sql2go/parser"
 	"io"
 	"io/ioutil"
 	"os"
